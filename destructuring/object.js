@@ -1,6 +1,6 @@
 // Basically, able to choose an object and turn it into a variable.
 
-// Most content here is form the below link:
+// Most content here is from the below link:
 // https://www.youtube.com/watch?v=NIq3qLaHCIs
 
 const car1 = {
